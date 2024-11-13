@@ -7,10 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
-- 👨‍💻 My Portfolio [https://portfolio-eta-eight-41.vercel.app/](https://portfolio-eta-eight-41.vercel.app/)
-
-- 📫 How to reach me **prajwalnegi2301@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/negi31971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="negi31971" height="30" width="40" /></a>
