@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Prajwal Negi</h1>
-<h3 align="center">I am a B-Tech student from NSUT with technical skill set and experience in Full-Stack Web-Development, Flutter, AI-Integration, Blockchain and Machine-Learning.</h3>
+<h3 align="center">I am a B-Tech student from NSUT with technical skill set and experience in Full-Stack Web-Development, ML, DL, RL, Flutter, AI-Integration, and Blockchain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4b26a14c-e9c0pn&label=Profile%20views&color=0e75b6&style=flat" alt="4b26a14c-e9c0pn" /> </p>
 
